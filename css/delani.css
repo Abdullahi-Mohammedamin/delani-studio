@@ -1,7 +1,7 @@
 #background {
     background-image: url(img/h_img.jpg);
     position: relative;
-    height: 620px;
+    height: 720px;
     width: 100%;
     margin: 0px;
     padding: 0px;
@@ -55,8 +55,17 @@
   .col-md-3 img {
       width: 100%;
       padding: 2px;
+
   }
 
-  #try {
-      
-  }
+.contact {
+    background-image: url(img/c_image.jpg);
+    height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+
