@@ -18,6 +18,10 @@
     padding-top: 20px;
     padding-left: 20px;
 }
+
+#about {
+    height: 250px;
+}
  
 #us {
     background-image: url(img/s_image.jpg);
@@ -26,3 +30,9 @@
     height:300px;
     padding-top: 100px;
 }
+
+ .container-what-we-do{
+     text-align: center;
+     padding-top: 30px;
+     height: 500px;
+ }
