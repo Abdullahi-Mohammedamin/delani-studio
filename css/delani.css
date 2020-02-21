@@ -47,3 +47,16 @@
   .hidden3 {
       display: none;
   }
+
+  #portfolio {
+      text-align: center;
+  }
+
+  .col-md-3 img {
+      width: 100%;
+      padding: 2px;
+  }
+
+  #try {
+      
+  }
