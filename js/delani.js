@@ -20,4 +20,9 @@ $(function(){
         $("#work4-img").toggle()
     });
 
+    $(".work3-image").hover(function(){
+        $("#work3-overlay").toggle()
+        $("#work3-img").toggle()
+    });
+
 });

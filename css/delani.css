@@ -85,9 +85,17 @@
 
 #work4-overlay {
     text-align: center;
-    background-color: #a6ced1;
+    background-color: #7c9a9e;
     display: none;
-    height: 100%;
+    height: 241px;
+    padding-top: 115px;
 }
 
+#work3-overlay {
+    text-align: center;
+    background-color: #6b5947;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
 
