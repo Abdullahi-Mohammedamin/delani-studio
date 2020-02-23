@@ -83,3 +83,11 @@
     padding-top: 20px;
 }
 
+#work4-overlay {
+    text-align: center;
+    background-color: #a6ced1;
+    display: none;
+    height: 100%;
+}
+
+

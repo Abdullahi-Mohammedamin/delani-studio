@@ -15,4 +15,9 @@ $(function(){
         $(".img3").slideToggle(1600)
     });
 
+    $(".work4-image").hover(function(){
+        $("#work4-overlay").toggle()
+        $("#work4-img").toggle()
+    });
+
 });
