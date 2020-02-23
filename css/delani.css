@@ -99,3 +99,51 @@
     padding-top: 115px;  
 }
 
+#work2-overlay {
+    text-align: center;
+    background-color: #f0a861;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work1-overlay {
+    text-align: center;
+    background-color: #cdee99;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work5-overlay {
+    text-align: center;
+    background-color: #2e4e39;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work6-overlay {
+    text-align: center;
+    background-color: #e1afeb;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work7-overlay {
+    text-align: center;
+    background-color: #bb4a5d;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
+#work8-overlay {
+    text-align: center;
+    background-color: #77beb3;
+    display: none;
+    height: 241px;
+    padding-top: 115px;  
+}
+
