@@ -133,7 +133,7 @@
 
 #work7-overlay {
     text-align: center;
-    background-color: #bb4a5d;
+    background-color: #bb4a5d13;
     display: none;
     height: 241px;
     padding-top: 115px;  
@@ -147,3 +147,6 @@
     padding-top: 115px;  
 }
 
+body {
+    font-family: "karla";
+}
