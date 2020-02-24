@@ -55,7 +55,6 @@ $(function(){
         $("#work8-img").toggle()
     });
     
-    $(document).ready(function(){
         $("form#form34A").submit(function(event){
           // event.preventDefault();
           var name = $("input#MERGE1").val();
