@@ -55,7 +55,9 @@ $(function(){
         $("#work8-img").toggle()
     });
     
-        $("form#form34A").submit(function(event){
+});
+    
+       /* $("form#form34A").submit(function(event){
           // event.preventDefault();
           var name = $("input#MERGE1").val();
           var email = $("input#MERGE0").val();
